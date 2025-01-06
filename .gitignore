@@ -1,0 +1,6 @@
+*.pyc
+.python-version
+node_modules
+
+# just in case for mac users
+.DS_STORE
